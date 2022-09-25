@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	<version>0.0.4-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>BOA-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>BOA Web Project for Java Project</description>
 	<organization>
 		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>BOA</finalName>
 		
 		<plugins>
 			<plugin>

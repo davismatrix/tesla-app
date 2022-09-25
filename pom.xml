@@ -7,9 +7,9 @@
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>maven-web-application</name>
+	<name>tesla-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Tesla Web Project for Java Project</description>
 	<organization>
 		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
